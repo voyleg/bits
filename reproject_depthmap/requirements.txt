@@ -1,0 +1,5 @@
+Pillow
+matplotlib
+numpy
+open3d>=0.15.1
+torch>=1.8.1
